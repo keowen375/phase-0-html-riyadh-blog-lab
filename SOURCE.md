@@ -61,5 +61,5 @@ LINK 1
 
 LINK 2
 
-`Wikipedia`
+`Wekipedia`
 `http://en.wikipedia.org/wiki/Riyadh`
